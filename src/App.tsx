@@ -33,6 +33,9 @@ function App() {
           <label htmlFor='favorite-music-genres'>Gênero/s de música favorito</label><br/>
           <input type='text' name='favorite-music-genres' />
 
+          <label htmlFor='favorite-place'>Lugar favorito</label><br/>
+          <input type='text' name='favorite-place' />
+
           <button type='submit'>Enviar</button>
         </form>
       </div>
