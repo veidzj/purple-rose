@@ -6,6 +6,10 @@ function App() {
     <div className='container'>
       <div className='form-container'>
         <img src={logo} alt='App logo, Purple rose' />
+        <form className='form'>
+          <label htmlFor='name'>Name</label><br/>
+          <input type='text' name='name' />
+        </form>
       </div>
     </div>
   )
