@@ -21,8 +21,11 @@ function App() {
           <label htmlFor='favorite-movie'>Filme/Série Favorito</label><br/>
           <input type='text' name='favorite-movie' />
 
-          <label htmlFor='favorite-food'>Comida Favorita</label><br/>
-          <input type='text' name='favorite-food' />
+          <label htmlFor='favorite-foods'>Comida/s Favorita</label><br/>
+          <input type='text' name='favorite-foods' />
+
+          <label htmlFor='music-genres'>Gênero/s de música</label><br/>
+          <input type='text' name='music-genres' />
 
           <button type='submit'>Enviar</button>
         </form>
