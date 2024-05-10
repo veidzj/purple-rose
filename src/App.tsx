@@ -15,6 +15,9 @@ function App() {
 
           <label htmlFor='favorite-movie'>Filme Favorito</label><br/>
           <input type='text' name='favorite-movie' />
+
+          <label htmlFor='favorite-show'>Série Favorita</label><br/>
+          <input type='text' name='favorite-show' />
         </form>
       </div>
     </div>
