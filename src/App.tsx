@@ -18,6 +18,9 @@ function App() {
           <label htmlFor='age'>Idade</label><br/>
           <input type='number' name='age' />
 
+          <label htmlFor='height'>Altura (em cm)</label><br/>
+          <input type='number' name='height' />
+
           <label htmlFor='favorite-movie'>Filme/Série Favorito</label><br/>
           <input type='text' name='favorite-movie' />
 
