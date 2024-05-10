@@ -12,6 +12,9 @@ function App() {
 
           <label htmlFor='age'>Idade</label><br/>
           <input type='number' name='age' />
+
+          <label htmlFor='favorite-movie'>Filme Favorito</label><br/>
+          <input type='text' name='favorite-movie' />
         </form>
       </div>
     </div>
