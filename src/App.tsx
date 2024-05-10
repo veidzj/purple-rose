@@ -21,14 +21,17 @@ function App() {
           <label htmlFor='height'>Altura (em cm)</label><br/>
           <input type='number' name='height' />
 
+          <label htmlFor='favorite-color'>Cor favorita</label><br/>
+          <input type='text' name='favorite-color' />
+
           <label htmlFor='favorite-movie'>Filme/Série Favorito</label><br/>
           <input type='text' name='favorite-movie' />
 
           <label htmlFor='favorite-foods'>Comida/s Favorita</label><br/>
           <input type='text' name='favorite-foods' />
 
-          <label htmlFor='music-genres'>Gênero/s de música</label><br/>
-          <input type='text' name='music-genres' />
+          <label htmlFor='favorite-music-genres'>Gênero/s de música favorito</label><br/>
+          <input type='text' name='favorite-music-genres' />
 
           <button type='submit'>Enviar</button>
         </form>
