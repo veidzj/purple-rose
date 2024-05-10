@@ -7,8 +7,11 @@ function App() {
       <div className='form-container'>
         <img src={logo} alt='App logo, Purple rose' />
         <form className='form'>
-          <label htmlFor='name'>Name</label><br/>
+          <label htmlFor='name'>Nome</label><br/>
           <input type='text' name='name' />
+
+          <label htmlFor='age'>Idade</label><br/>
+          <input type='number' name='age' />
         </form>
       </div>
     </div>
