@@ -18,13 +18,13 @@ function App() {
           <label htmlFor='age'>Idade</label><br/>
           <input type='number' name='age' />
 
-          <label htmlFor='favorite-movie'>Filme Favorito</label><br/>
+          <label htmlFor='favorite-movie'>Filme/Série Favorito</label><br/>
           <input type='text' name='favorite-movie' />
 
-          <label htmlFor='favorite-show'>Série Favorita</label><br/>
-          <input type='text' name='favorite-show' />
+          <label htmlFor='favorite-food'>Comida Favorita</label><br/>
+          <input type='text' name='favorite-food' />
 
-          <button type='submit'>Submit</button>
+          <button type='submit'>Enviar</button>
         </form>
       </div>
     </div>
