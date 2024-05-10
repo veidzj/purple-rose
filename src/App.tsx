@@ -36,6 +36,9 @@ function App() {
           <label htmlFor='favorite-place'>Lugar favorito</label><br/>
           <input type='text' name='favorite-place' />
 
+          <label htmlFor='place-to-travel'>Lugar que sonha em viajar</label><br/>
+          <input type='text' name='place-to-travel' />
+
           <button type='submit'>Enviar</button>
         </form>
       </div>
