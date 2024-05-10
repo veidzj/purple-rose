@@ -1,9 +1,12 @@
 import './App.css'
+import logo from './assets/logo.png'
 
 function App() {
   return (
-    <div>
-      <h1>Purple Rose</h1>
+    <div className='container'>
+      <div className='form-container'>
+        <img src={logo} alt='App logo, Purple rose' />
+      </div>
     </div>
   )
 }
