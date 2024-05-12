@@ -24,13 +24,13 @@ function App() {
           <label htmlFor='favorite-color'>Cor favorita</label><br/>
           <input type='text' name='favorite-color' />
 
-          <label htmlFor='favorite-movie'>Filme/Série Favorito</label><br/>
+          <label htmlFor='favorite-movie'>Filme/Série Favorita</label><br/>
           <input type='text' name='favorite-movie' />
 
-          <label htmlFor='favorite-foods'>Comida/s Favorita</label><br/>
+          <label htmlFor='favorite-foods'>Comida(s) Favorita</label><br/>
           <input type='text' name='favorite-foods' />
 
-          <label htmlFor='favorite-music-genres'>Gênero/s de música favorito</label><br/>
+          <label htmlFor='favorite-music-genres'>Gênero(s) de música favorito</label><br/>
           <input type='text' name='favorite-music-genres' />
 
           <label htmlFor='favorite-place'>Lugar favorito</label><br/>
